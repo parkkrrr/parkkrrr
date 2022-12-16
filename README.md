@@ -2,7 +2,7 @@
 - 👀 I’m interested in C Programming.
 - 🌱 I’m currently learning Data Structures in C .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Gmail - prakharverma2019@gmail.com
+- 📫 How to reach me ... rakharverma2019@gmail.com
 - I'm learning how to create repository.
 <!---
 parkkrrr/parkkrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
